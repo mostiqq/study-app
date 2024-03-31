@@ -1,0 +1,14 @@
+.nav {
+	display: flex;
+	align-items: center;
+	background-color: #000;
+	padding: 17px 50px;
+	margin-bottom: 100px;
+
+	.NavLeft {
+		display: flex;
+		align-items: center;
+		gap: 70px;
+		margin-right: auto;
+	}
+}

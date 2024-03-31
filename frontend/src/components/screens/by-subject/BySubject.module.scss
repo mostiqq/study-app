@@ -1,0 +1,30 @@
+.main {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 60px 10px;
+
+	.up {
+		display: flex;
+		align-items: center;
+		width: 70%;
+		margin-bottom: 80px;
+	}
+
+	.list {
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		gap: 30px;
+		margin-bottom: 50px;
+		justify-content: center;
+	}
+
+	.link {
+		padding: 12px 40px;
+		background-color: rgb(0, 126, 38);
+		color: #fff;
+		border-radius: 8px;
+		font-weight: 500;
+	}
+}

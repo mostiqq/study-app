@@ -1,0 +1,21 @@
+.main {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 80px 10px;
+
+	.up {
+		display: flex;
+		align-items: center;
+		width: 85%;
+		margin-bottom: 100px;
+	}
+
+	.list {
+		display: flex;
+		align-items: flex-end;
+		gap: 50px;
+		flex-wrap: wrap;
+		margin-bottom: 80px;
+	}
+}

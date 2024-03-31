@@ -1,0 +1,11 @@
+.main {
+	.center {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+
+		.AddLink {
+			color: #0066ff;
+		}
+	}
+}
